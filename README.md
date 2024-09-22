@@ -1,1 +1,2 @@
 # PDSEI2024-GRUPO-4
+Este repositorio corresponde al proyecto final del curso PDSEI de la Universidad Nacional de Trujillo, titulado "Implementación de un detector de residuos sólidos por técnicas de visión artifical", elaborado por los estudiantes del 8to ciclo de Ingeniería Mecatrónica nombrados a continuación: -Calderón Alvarado, Jeremy Lorenzo -Carrillo Guevara, Abigail Bibiana -Cóndor Flores, César Emilio
