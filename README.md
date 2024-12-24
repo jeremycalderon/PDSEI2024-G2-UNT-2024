@@ -6,4 +6,4 @@ elaborado por los estudiantes del 8to ciclo de Ingeniería Mecatrónica nombrado
  - Carrillo Guevara, Abigail Bibiana
  - Cóndor Flores, César Emilio
 
-Enlace al video de youtube con la sustentación del trabajo: https://youtu.be/h0wi05OOE1g
+Enlace al video de youtube con la sustentación del trabajo: https://youtu.be/eZWgFQMsb2o
