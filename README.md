@@ -7,3 +7,6 @@ elaborado por los estudiantes del 8to ciclo de Ingeniería Mecatrónica nombrado
  - Cóndor Flores, César Emilio
 
 Enlace al video de youtube con la sustentación del trabajo: https://youtu.be/eZWgFQMsb2o
+Enlace al dataset de entrenamiento original: https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2
+Enlace al dataset de pruebas original: https://www.kaggle.com/datasets/mostafaabla/garbage-classification
+Enlaces a los dataset ya procesados y listos para el entrenamiento y evaluación de los modelos se encuentran en la carpeta Proyecto/Datasets
